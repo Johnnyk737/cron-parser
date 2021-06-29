@@ -1,0 +1,18 @@
+{
+  "name": "cron-parser",
+  "version": "1.0.0",
+  "description": "This script parses out a cron expression string and outputs the expected values. The values need to be in the following order:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "John Kroll",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
